@@ -1,0 +1,15 @@
+{
+  "name": "scrabble-score",
+  "version": "1.0.0",
+  "description": "Scrabble score example",
+  "main": "scrabble-score.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node scrabble-score.spec.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-node": "^1.14.5"
+  }
+}
